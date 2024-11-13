@@ -14,6 +14,7 @@
 
           <content>
             <mvc:XMLView viewName="sap.ui.demo.walkthrough.view.Panel"/>
+            <mvc:XMLView viewName="sap.ui.demo.walkthrough.view.InvoiceList" />
           </content>
 
 
